@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sethvargo/go-diceware/diceware"
+	"github.com/notchhq/go-diceware/diceware"
 )
 
 var (
